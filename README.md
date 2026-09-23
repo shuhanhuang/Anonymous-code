@@ -3,8 +3,19 @@
 <h1>MCF-MoE: Multi-level Context Modeling for<br>Consistent Expert Selection in Mixture-of-Experts</h1>
 
 <p>
-  <a href="https://anonymous.4open.science/r/MCFMOE"><img src="https://img.shields.io/badge/Code-Anonymous-blue?logo=github" alt="Code"></a>
-  <img src="https://img.shields.io/badge/Paper-Under%20Review-orange" alt="Paper">
+  Shuhan Huang<sup>1</sup>&nbsp;&nbsp;
+  Yuanbo Tang<sup>1</sup>&nbsp;&nbsp;
+  Naifan Zhang<sup>1</sup>&nbsp;&nbsp;
+  Yang Li<sup>2</sup>&nbsp;&nbsp;
+  Wai Kin Victor Chan<sup>1</sup>
+</p>
+<p>
+  <sup>1</sup>Tsinghua Shenzhen International Graduate School, Tsinghua University<br>
+  <sup>2</sup>School of AI, The Chinese University of Hong Kong (Shenzhen)
+</p>
+
+<p>
+  <a href="https://arxiv.org/abs/2607.16427"><img src="https://img.shields.io/badge/arXiv-2607.16427-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
   <img src="https://img.shields.io/badge/PyTorch-2.7.0-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Transformers-4.51.3-FFD21E?logo=huggingface&logoColor=black" alt="Transformers">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-green" alt="License"></a>
@@ -206,11 +217,12 @@ code/
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{mcfmoe,
+@article{huang2026mcfmoe,
   title   = {Multi-level Context Modeling for Consistent Expert Selection in Mixture-of-Experts},
-  author  = {Anonymous},
-  journal = {Under Review},
-  year    = {2026}
+  author  = {Huang, Shuhan and Tang, Yuanbo and Zhang, Naifan and Li, Yang and Chan, Wai Kin Victor},
+  journal = {arXiv preprint arXiv:2607.16427},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2607.16427}
 }
 ```
 
