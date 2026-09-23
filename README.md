@@ -28,7 +28,7 @@
 ## 📖 Overview
 
 <p align="center">
-  <img src="assets/overview.png" width="95%" alt="Overall workflow of MCF-MoE">
+  <img src=Overall_Workflow_May.png" width="95%" alt="Overall workflow of MCF-MoE">
 </p>
 <p align="center"><em>
 Overall workflow of MCF-MoE. <b>Left:</b> a Transformer layer with the MCF-MoE gate. <b>Middle:</b> a local similarity-aware query and global cross-layer keys/values. <b>Right:</b> Top-<i>K</i> expert selection.
