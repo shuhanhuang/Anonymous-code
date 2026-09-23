@@ -2,17 +2,7 @@
 
 <h1>MCF-MoE: Multi-level Context Modeling for<br>Consistent Expert Selection in Mixture-of-Experts</h1>
 
-<p>
-  Shuhan Huang<sup>1</sup>&nbsp;&nbsp;
-  Yuanbo Tang<sup>1</sup>&nbsp;&nbsp;
-  Naifan Zhang<sup>1</sup>&nbsp;&nbsp;
-  Yang Li<sup>2</sup>&nbsp;&nbsp;
-  Wai Kin Victor Chan<sup>1</sup>
-</p>
-<p>
-  <sup>1</sup>Tsinghua Shenzhen International Graduate School, Tsinghua University<br>
-  <sup>2</sup>School of AI, The Chinese University of Hong Kong (Shenzhen)
-</p>
+
 
 <p>
   <a href="https://arxiv.org/abs/2607.16427"><img src="https://img.shields.io/badge/arXiv-2607.16427-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
